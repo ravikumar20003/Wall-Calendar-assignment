@@ -140,7 +140,7 @@ Your component can be deployed to Netlify in two simple ways:
 
 ## 📹 Video Demo
 
-> [Loom / YouTube link here]
+> [https://www.loom.com/share/b7406ed188a943a88a5f30123d552cda]
 
 ---
 
